@@ -7,7 +7,7 @@
         <mxCell id="0MchEkT6NV34sEj7a_se-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="440" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="0MchEkT6NV34sEj7a_se-2" value="SISTEMA DE VENTAS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="0MchEkT6NV34sEj7a_se-2" value="SISTEMA DE VENTAS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0MchEkT6NV34sEj7a_se-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0MchEkT6NV34sEj7a_se-3" target="0MchEkT6NV34sEj7a_se-10">
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="0MchEkT6NV34sEj7a_se-3" value="Administrador Plataforma" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="90" width="51" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="0MchEkT6NV34sEj7a_se-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0MchEkT6NV34sEj7a_se-4" target="0MchEkT6NV34sEj7a_se-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0MchEkT6NV34sEj7a_se-4" value="Analista TI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="51" y="220" width="51" height="84" as="geometry" />
@@ -46,6 +43,9 @@
           <mxGeometry x="0.0059" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0MchEkT6NV34sEj7a_se-17" value="Enviar Correo Cuenta" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="461" y="112" width="95" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
