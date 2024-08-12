@@ -39,13 +39,22 @@
             <mxPoint x="437" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0MchEkT6NV34sEj7a_se-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0MchEkT6NV34sEj7a_se-14">
+        <mxCell id="0MchEkT6NV34sEj7a_se-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1" vertex="1" connectable="0" parent="0MchEkT6NV34sEj7a_se-14">
           <mxGeometry x="0.0059" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0MchEkT6NV34sEj7a_se-17" value="Enviar Correo Cuenta" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="461" y="112" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="0MchEkT6NV34sEj7a_se-18" value="zz" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0MchEkT6NV34sEj7a_se-10" target="0MchEkT6NV34sEj7a_se-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="243" as="sourcePoint" />
+            <mxPoint x="462" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MchEkT6NV34sEj7a_se-19" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=13;fontStyle=1" connectable="0" vertex="1" parent="0MchEkT6NV34sEj7a_se-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
