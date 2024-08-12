@@ -16,6 +16,9 @@
         <mxCell id="0MchEkT6NV34sEj7a_se-3" value="Administrador Plataforma" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="90" width="51" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="0MchEkT6NV34sEj7a_se-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0MchEkT6NV34sEj7a_se-4" target="0MchEkT6NV34sEj7a_se-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0MchEkT6NV34sEj7a_se-4" value="Analista TI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="51" y="220" width="51" height="84" as="geometry" />
         </mxCell>
